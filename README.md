@@ -58,7 +58,7 @@ Os gráficos ajudam a visualizar a tendência dos casos ao longo do tempo, facil
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/analise-epidemiologica-dengue.git
+   git clone https://github.com/al00pes/dengue_riodejaneiro.git
    ```
 2. Instale as dependências necessárias:
    ```sh
